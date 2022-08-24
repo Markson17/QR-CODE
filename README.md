@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [The github repository to the solution ](https://github.com/Markson17/QR-CODE/)
-- Live Site URL: [Github live site url](https://your-live-site-url.com)
+- Live Site URL: [Github live site url](https://markson17.github.io/QR-CODE/)
 
 ## My process
 
