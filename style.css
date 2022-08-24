@@ -51,4 +51,14 @@ body {
     .container{
         width: 60%;
     }
+   .first{
+    margin: 12px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+   }
+   .second{
+    padding: 8px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+   }
 }
